@@ -1,0 +1,11 @@
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\bin\Debug\Tutorial3.exe
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\bin\Debug\Tutorial3.pdb
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.AssemblyReference.cache
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Properties.Resources.resources
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.GenerateResource.cache
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.pdb
+C:\Users\jonas\Programming\source\repos\Tutorial3\Tutorial3\obj\Debug\Tutorial3.Form1.resources

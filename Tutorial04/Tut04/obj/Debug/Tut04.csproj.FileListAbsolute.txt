@@ -1,0 +1,8 @@
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\bin\Debug\Tut04.exe.config
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\bin\Debug\Tut04.exe
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\bin\Debug\Tut04.pdb
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\obj\Debug\Tut04.csproj.AssemblyReference.cache
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\obj\Debug\Tut04.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\obj\Debug\Tut04.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\obj\Debug\Tut04.exe
+C:\Users\jonas\Programming\source\repos\Tut04\Tut04\obj\Debug\Tut04.pdb

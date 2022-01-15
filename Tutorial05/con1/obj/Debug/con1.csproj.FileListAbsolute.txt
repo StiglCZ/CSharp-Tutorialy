@@ -1,0 +1,8 @@
+C:\Users\jonas\Programming\source\repos\con1\con1\bin\Debug\con1.exe.config
+C:\Users\jonas\Programming\source\repos\con1\con1\bin\Debug\con1.exe
+C:\Users\jonas\Programming\source\repos\con1\con1\bin\Debug\con1.pdb
+C:\Users\jonas\Programming\source\repos\con1\con1\obj\Debug\con1.csproj.AssemblyReference.cache
+C:\Users\jonas\Programming\source\repos\con1\con1\obj\Debug\con1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonas\Programming\source\repos\con1\con1\obj\Debug\con1.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Programming\source\repos\con1\con1\obj\Debug\con1.exe
+C:\Users\jonas\Programming\source\repos\con1\con1\obj\Debug\con1.pdb
